@@ -944,8 +944,7 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 
 14. **"Causal Judge Evaluation: Calibrated Surrogate Metrics for LLM Systems"**. ![](https://img.shields.io/badge/Evaluation%20Method-orange)
 
-    *Eddie Landesberg and Manjari Narayan.* arXiv 2025. [[Paper](https://arxiv.org/pdf/2512.11150.pdf)] [[GitHub](https://github.com/cimo-labs/cje)] 
-
+    *Eddie Landesberg and Manjari Narayan.* arXiv 2025. [[Paper](https://arxiv.org/pdf/2512.11150.pdf)] [[GitHub](https://github.com/cimo-labs/cje)]
 
 ### :closed_lock_with_key:Safety Evaluation
 
